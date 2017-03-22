@@ -1,0 +1,27 @@
+{
+  "name": "react-native-custom-tabbar",
+  "version": "1.0.0",
+  "description": "A Tabbar component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojsinghnegiwd/react-native-custom-tabbar.git"
+  },
+  "keywords": [
+    "react-native",
+    "tabs",
+    "tabbar",
+    "react",
+    "android",
+    "ios"
+  ],
+  "author": "Manoj Singh Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojsinghnegiwd/react-native-custom-tabbar/issues"
+  },
+  "homepage": "https://github.com/manojsinghnegiwd/react-native-custom-tabbar#readme"
+}
