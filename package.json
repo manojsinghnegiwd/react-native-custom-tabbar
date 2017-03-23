@@ -24,8 +24,8 @@
     "url": "https://github.com/manojsinghnegiwd/react-native-custom-tabbar/issues"
   },
   "homepage": "https://github.com/manojsinghnegiwd/react-native-custom-tabbar#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^15.4.2",
-    "react-native": "^0.42.3"
+    "react-native": "^0.42.x"
   }
 }
